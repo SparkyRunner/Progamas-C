@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1554779131 source:c:\users\usuario\desktop\tadboa\cofo\void_cofo\main.c
+	"cofo.h"
+
+1554779265 source:c:\users\usuario\desktop\tadboa\cofo\void_cofo\cofo.c
+	"cofo.h"
+
+1554779076 c:\users\usuario\desktop\tadboa\cofo\void_cofo\cofo.h
+	<stdlib.h>
+	<stdio.h>
+
+1555391553 source:c:\users\usuario\desktop\tadboa\cofo\cofo\void_cofo\cofo.c
+	"cofo.h"
+
+1555391546 c:\users\usuario\desktop\tadboa\cofo\cofo\void_cofo\cofo.h
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1555391444 source:c:\users\usuario\desktop\tadboa\cofo\cofo\void_cofo\main.c
+	"cofo.h"
+
+1555633405 source:c:\users\usuario\desktop\void_cofo\main.c
+	"cofo.h"
+
+1555632071 c:\users\usuario\desktop\void_cofo\cofo.h
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1555634026 source:c:\users\usuario\desktop\void_cofo\cofo.c
+	"cofo.h"
+
