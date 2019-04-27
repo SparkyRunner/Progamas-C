@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1555902571 source:c:\users\usuario\desktop\struct dentro de struct\neo_noir\main.c
+	"functions.h"
+
+1555903546 c:\users\usuario\desktop\struct dentro de struct\neo_noir\functions.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<conio.h>
+
+1555900885 source:c:\users\usuario\desktop\struct dentro de struct\neo_noir\functions.c
+	"functions.h"
+
+1555890482 c:\users\usuario\desktop\struct dentro de struct\neo_noir\functions.c
+	"functions.h"
+
+1556248141 source:d:\vinícius\programaçao\c\struct dentro de struct\neo_noir\main.c
+	"functions.h"
+
+1556248141 d:\vinícius\programaçao\c\struct dentro de struct\neo_noir\functions.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<conio.h>
+
+1556366736 source:d:\vinícius\programaçao\c\struct dentro de struct\neo_noir\functions.c
+	"functions.h"
+
