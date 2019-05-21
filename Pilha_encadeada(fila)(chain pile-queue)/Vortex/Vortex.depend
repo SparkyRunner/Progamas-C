@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1557666161 source:c:\users\usuario\desktop\tadboa\encad_cofo\vortex\main.c
+	"encad.h"
+	"box.h"
+
+1557619979 c:\users\usuario\desktop\tadboa\encad_cofo\vortex\linker.h
+	<stdio.h>
+	<stdlib.h>
+	"box.h"
+	"encad.h"
+
+1557624602 c:\users\usuario\desktop\tadboa\encad_cofo\vortex\box.h
+	<stdio.h>
+	<stdlib.h>
+
+1557669187 c:\users\usuario\desktop\tadboa\encad_cofo\vortex\encad.h
+	<stdio.h>
+	<stdlib.h>
+
+1557677028 source:c:\users\usuario\desktop\tadboa\encad_cofo\vortex\encad.c
+	"encad.h"
+
+1557677129 source:c:\users\usuario\desktop\tadboa\encad_cofo\vortex\box.c
+	"box.h"
+
+1557677129 source:c:\users\usuario\desktop\tadboa\pilha_encadeada(fila)\vortex\box.c
+	"box.h"
+
+1557624602 c:\users\usuario\desktop\tadboa\pilha_encadeada(fila)\vortex\box.h
+	<stdio.h>
+	<stdlib.h>
+
+1557677028 source:c:\users\usuario\desktop\tadboa\pilha_encadeada(fila)\vortex\encad.c
+	"encad.h"
+
+1557669187 c:\users\usuario\desktop\tadboa\pilha_encadeada(fila)\vortex\encad.h
+	<stdio.h>
+	<stdlib.h>
+
