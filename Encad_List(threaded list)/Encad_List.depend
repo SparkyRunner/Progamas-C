@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1558576836 source:c:\users\usuario\desktop\tadboa\encad_list\main.c
+	"List.h"
+	"Car.h"
+
+1558576933 source:c:\users\usuario\desktop\tadboa\encad_list\list.c
+	"List.h"
+
+1558574134 c:\users\usuario\desktop\tadboa\encad_list\list.h
+	<stdlib.h>
+	<stdio.h>
+
+1558574966 source:c:\users\usuario\desktop\tadboa\encad_list\car.c
+	"Car.h"
+
+1558573350 c:\users\usuario\desktop\tadboa\encad_list\car.h
+	<stdlib.h>
+	<stdio.h>
+
