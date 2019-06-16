@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1555611252 source:c:\users\usuario\desktop\tadboa\cofo\pilhas\merda\main.c
+	"pilha.h"
+
+1555612941 c:\users\usuario\desktop\tadboa\cofo\pilhas\merda\pilha.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1555613689 source:c:\users\usuario\desktop\tadboa\cofo\pilhas\merda\pilha.c
+	"pilha.h"
+
+1556206853 source:c:\users\usuario\desktop\tadboa\pilhas\merda\pilha.c
+	"pilha.h"
+
+1556206155 c:\users\usuario\desktop\tadboa\pilhas\merda\pilha.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1556206757 source:c:\users\usuario\desktop\tadboa\pilhas\merda\main.c
+	"pilha.h"
+
+1557426943 source:c:\users\usuario\desktop\tadboa\pilha\main.c
+	"pilha.h"
+
+1556206155 c:\users\usuario\desktop\tadboa\pilha\pilha.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1557426920 source:c:\users\usuario\desktop\tadboa\pilha\pilha.c
+	"pilha.h"
+
