@@ -1,4 +1,5 @@
 #include"pilha.h"
+//eae nego; by luisnofb
 
 int ePalindromo(char *str, int n);
 
@@ -17,8 +18,6 @@ int main(){
         char opt ;
 
         printf("a)Coloca na pilha \n b)Remove da pilha \n c)Cria Pilha \n d)Destroi pilha \n e)Palindromo \n f)Criar pilha dupla \n g) Colocar na pilha 1 \n h)Colocar na pilha 2 \n i)Tirar pilha 1 \n j)Tirar pilha 2 \n k)Excluir pilha dupla \n l)Sair \n");
-
-
 
         if(pilha_exist > 0){
             printf("Pilha = \n");
@@ -161,11 +160,9 @@ int main(){
         }
 
         getch();
+        
     }
     stkD_Destroy(ds);
     free(s);
     return 0;
 }
-
-
-
