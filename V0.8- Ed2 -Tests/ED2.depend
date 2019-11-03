@@ -1,0 +1,419 @@
+# depslib dependency file v1.0
+1571577298 source:c:\users\cliente\desktop\ed2\avltree.c
+	"avltree.h"
+
+1571577611 c:\users\cliente\desktop\ed2\avltree.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1571577534 source:c:\users\cliente\desktop\ed2\main.c
+	"avltree.h"
+
+1572282580 source:c:\users\cliente\desktop\vinícius\segundo-trabalho-de-ed2-master\avltree.c
+	"avltree.h"
+
+1572282581 c:\users\cliente\desktop\vinícius\segundo-trabalho-de-ed2-master\avltree.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1572324237 source:c:\users\cliente\desktop\vinícius\segundo-trabalho-de-ed2-master\hash.c
+	"Hash.h"
+
+1572285326 c:\users\cliente\desktop\vinícius\segundo-trabalho-de-ed2-master\hash.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1572360930 source:c:\users\cliente\desktop\vinícius\segundo-trabalho-de-ed2-master\main.c
+	"avltree.h"
+	"Hash.h"
+	"Chained_list.h"
+	"Binary_Tree.h"
+
+1572360853 source:c:\users\cliente\desktop\vinícius\segundo-trabalho-de-ed2-master\chained_list.c
+	"Chained_list.h"
+	"Binary_Tree.h"
+
+1572360866 c:\users\cliente\desktop\vinícius\segundo-trabalho-de-ed2-master\chained_list.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Hash.h"
+	"Binary_Tree.h"
+
+1572360533 source:c:\users\cliente\desktop\vinícius\segundo-trabalho-de-ed2-master\binary_tree.c
+	"Binary_Tree.h"
+
+1572358485 c:\users\cliente\desktop\vinícius\segundo-trabalho-de-ed2-master\binary_tree.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Hash.h"
+
+1572374042 source:e:\ufma\ed 2\scripts\v0.3segundo-trabalho-de-ed2-master\avltree.c
+	"avltree.h"
+
+1572373756 e:\ufma\ed 2\scripts\v0.3segundo-trabalho-de-ed2-master\avltree.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1572361078 source:e:\ufma\ed 2\scripts\v0.3segundo-trabalho-de-ed2-master\binary_tree.c
+	"Binary_Tree.h"
+
+1572358486 e:\ufma\ed 2\scripts\v0.3segundo-trabalho-de-ed2-master\binary_tree.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Hash.h"
+
+1572285328 e:\ufma\ed 2\scripts\v0.3segundo-trabalho-de-ed2-master\hash.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1572374148 source:e:\ufma\ed 2\scripts\v0.3segundo-trabalho-de-ed2-master\chained_list.c
+	"Chained_list.h"
+	"Binary_Tree.h"
+	"avltree.h"
+
+1572374258 e:\ufma\ed 2\scripts\v0.3segundo-trabalho-de-ed2-master\chained_list.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Hash.h"
+	"Binary_Tree.h"
+	"avltree.h"
+
+1572324238 source:e:\ufma\ed 2\scripts\v0.3segundo-trabalho-de-ed2-master\hash.c
+	"Hash.h"
+
+1572374216 source:e:\ufma\ed 2\scripts\v0.3segundo-trabalho-de-ed2-master\main.c
+	"avltree.h"
+	"Hash.h"
+	"Chained_list.h"
+	"Binary_Tree.h"
+
+1572361078 source:c:\users\cliente\desktop\v0.3segundo-trabalho-de-ed2-master\binary_tree.c
+	"Binary_Tree.h"
+
+1572358486 c:\users\cliente\desktop\v0.3segundo-trabalho-de-ed2-master\binary_tree.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Hash.h"
+
+1572285328 c:\users\cliente\desktop\v0.3segundo-trabalho-de-ed2-master\hash.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1572324238 source:c:\users\cliente\desktop\v0.3segundo-trabalho-de-ed2-master\hash.c
+	"Hash.h"
+
+1572396209 source:c:\users\cliente\desktop\v0.3segundo-trabalho-de-ed2-master\avltree.c
+	"avltree.h"
+
+1572373756 c:\users\cliente\desktop\v0.3segundo-trabalho-de-ed2-master\avltree.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1572396714 source:c:\users\cliente\desktop\v0.3segundo-trabalho-de-ed2-master\main.c
+	"avltree.h"
+	"Hash.h"
+	"Chained_list.h"
+	"Binary_Tree.h"
+
+1572396392 c:\users\cliente\desktop\v0.3segundo-trabalho-de-ed2-master\chained_list.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Hash.h"
+	"Binary_Tree.h"
+	"avltree.h"
+
+1572396732 source:c:\users\cliente\desktop\v0.3segundo-trabalho-de-ed2-master\chained_list.c
+	"Chained_list.h"
+	"Binary_Tree.h"
+	"avltree.h"
+
+1572396210 source:c:\users\cliente\desktop\vinícius\v0.4-segundo-trabalho-de-ed2-master\avltree.c
+	"avltree.h"
+
+1572373756 c:\users\cliente\desktop\vinícius\v0.4-segundo-trabalho-de-ed2-master\avltree.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1572361078 source:c:\users\cliente\desktop\vinícius\v0.4-segundo-trabalho-de-ed2-master\binary_tree.c
+	"Binary_Tree.h"
+
+1572358486 c:\users\cliente\desktop\vinícius\v0.4-segundo-trabalho-de-ed2-master\binary_tree.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Hash.h"
+
+1572285328 c:\users\cliente\desktop\vinícius\v0.4-segundo-trabalho-de-ed2-master\hash.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1572468165 source:c:\users\cliente\desktop\vinícius\v0.4-segundo-trabalho-de-ed2-master\chained_list.c
+	"Chained_list.h"
+	"Binary_Tree.h"
+	"avltree.h"
+	"rbt.h"
+
+1572467979 c:\users\cliente\desktop\vinícius\v0.4-segundo-trabalho-de-ed2-master\chained_list.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Hash.h"
+	"Binary_Tree.h"
+	"avltree.h"
+	"rbt.h"
+
+1572324238 source:c:\users\cliente\desktop\vinícius\v0.4-segundo-trabalho-de-ed2-master\hash.c
+	"Hash.h"
+
+1572468016 source:c:\users\cliente\desktop\vinícius\v0.4-segundo-trabalho-de-ed2-master\main.c
+	"avltree.h"
+	"Hash.h"
+	"Chained_list.h"
+	"Binary_Tree.h"
+	"rbt.h"
+
+1572467860 c:\users\cliente\desktop\vinícius\v0.4-segundo-trabalho-de-ed2-master\rbt.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1572468542 source:c:\users\cliente\desktop\vinícius\v0.4-segundo-trabalho-de-ed2-master\rbt.c
+	"rbt.h"
+
+1572396210 source:c:\users\cliente\desktop\vinícius\v0.5-segundo-trabalho-de-ed2-master\avltree.c
+	"avltree.h"
+
+1572373756 c:\users\cliente\desktop\vinícius\v0.5-segundo-trabalho-de-ed2-master\avltree.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1572361078 source:c:\users\cliente\desktop\vinícius\v0.5-segundo-trabalho-de-ed2-master\binary_tree.c
+	"Binary_Tree.h"
+
+1572358486 c:\users\cliente\desktop\vinícius\v0.5-segundo-trabalho-de-ed2-master\binary_tree.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Hash.h"
+
+1572285328 c:\users\cliente\desktop\vinícius\v0.5-segundo-trabalho-de-ed2-master\hash.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1572529853 source:c:\users\cliente\desktop\vinícius\v0.5-segundo-trabalho-de-ed2-master\hash.c
+	"Hash.h"
+
+1572468542 source:c:\users\cliente\desktop\vinícius\v0.5-segundo-trabalho-de-ed2-master\rbt.c
+	"rbt.h"
+
+1572467860 c:\users\cliente\desktop\vinícius\v0.5-segundo-trabalho-de-ed2-master\rbt.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1572527438 source:c:\users\cliente\desktop\vinícius\v0.5-segundo-trabalho-de-ed2-master\chained_list.c
+	"Chained_list.h"
+	"Binary_Tree.h"
+	"avltree.h"
+	"rbt.h"
+
+1572530171 c:\users\cliente\desktop\vinícius\v0.5-segundo-trabalho-de-ed2-master\chained_list.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Hash.h"
+	"Binary_Tree.h"
+	"avltree.h"
+	"rbt.h"
+
+1572530164 source:c:\users\cliente\desktop\vinícius\v0.5-segundo-trabalho-de-ed2-master\main.c
+	"avltree.h"
+	"Hash.h"
+	"Chained_list.h"
+	"Binary_Tree.h"
+	"rbt.h"
+
+1572577548 source:c:\users\cliente\desktop\vinícius\v0.6-segundo-trabalho-de-ed2-master\avltree.c
+	"avltree.h"
+
+1572373756 c:\users\cliente\desktop\vinícius\v0.6-segundo-trabalho-de-ed2-master\avltree.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1572576454 source:c:\users\cliente\desktop\vinícius\v0.6-segundo-trabalho-de-ed2-master\binary_tree.c
+	"Binary_Tree.h"
+
+1572358486 c:\users\cliente\desktop\vinícius\v0.6-segundo-trabalho-de-ed2-master\binary_tree.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Hash.h"
+
+1572573080 c:\users\cliente\desktop\vinícius\v0.6-segundo-trabalho-de-ed2-master\hash.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1572576116 source:c:\users\cliente\desktop\vinícius\v0.6-segundo-trabalho-de-ed2-master\chained_list.c
+	"Chained_list.h"
+	"Binary_Tree.h"
+	"avltree.h"
+	"rbt.h"
+
+1572530171 c:\users\cliente\desktop\vinícius\v0.6-segundo-trabalho-de-ed2-master\chained_list.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Hash.h"
+	"Binary_Tree.h"
+	"avltree.h"
+	"rbt.h"
+
+1572467860 c:\users\cliente\desktop\vinícius\v0.6-segundo-trabalho-de-ed2-master\rbt.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1572577856 source:c:\users\cliente\desktop\vinícius\v0.6-segundo-trabalho-de-ed2-master\main.c
+	"avltree.h"
+	"Hash.h"
+	"Chained_list.h"
+	"Binary_Tree.h"
+	"rbt.h"
+
+1572577796 source:c:\users\cliente\desktop\vinícius\v0.6-segundo-trabalho-de-ed2-master\rbt.c
+	"rbt.h"
+
+1572576349 source:c:\users\cliente\desktop\vinícius\v0.6-segundo-trabalho-de-ed2-master\hash.c
+	"Hash.h"
+
+1572713786 source:c:\users\cliente\desktop\vinícius\v0.7-segundo-trabalho-de-ed2-master\avltree.c
+	"avltree.h"
+
+1572711331 c:\users\cliente\desktop\vinícius\v0.7-segundo-trabalho-de-ed2-master\avltree.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1572712690 source:c:\users\cliente\desktop\vinícius\v0.7-segundo-trabalho-de-ed2-master\binary_tree.c
+	"Binary_Tree.h"
+
+1572706597 c:\users\cliente\desktop\vinícius\v0.7-segundo-trabalho-de-ed2-master\binary_tree.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Hash.h"
+
+1572709950 c:\users\cliente\desktop\vinícius\v0.7-segundo-trabalho-de-ed2-master\hash.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1572710876 source:c:\users\cliente\desktop\vinícius\v0.7-segundo-trabalho-de-ed2-master\chained_list.c
+	"Chained_list.h"
+	"Binary_Tree.h"
+	"avltree.h"
+	"rbt.h"
+
+1572707053 c:\users\cliente\desktop\vinícius\v0.7-segundo-trabalho-de-ed2-master\chained_list.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Hash.h"
+	"Binary_Tree.h"
+	"avltree.h"
+	"rbt.h"
+
+1572711506 c:\users\cliente\desktop\vinícius\v0.7-segundo-trabalho-de-ed2-master\rbt.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1572710279 source:c:\users\cliente\desktop\vinícius\v0.7-segundo-trabalho-de-ed2-master\hash.c
+	"Hash.h"
+
+1572716059 source:c:\users\cliente\desktop\vinícius\v0.7-segundo-trabalho-de-ed2-master\main.c
+	"avltree.h"
+	"Hash.h"
+	"Chained_list.h"
+	"Binary_Tree.h"
+	"rbt.h"
+	"time.h"
+
+1572712976 source:c:\users\cliente\desktop\vinícius\v0.7-segundo-trabalho-de-ed2-master\rbt.c
+	"rbt.h"
+
+1572713786 source:c:\users\cliente\desktop\vinícius\v0.8-segundo-trabalho-de-ed2-master\avltree.c
+	"avltree.h"
+
+1572711331 c:\users\cliente\desktop\vinícius\v0.8-segundo-trabalho-de-ed2-master\avltree.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1572712690 source:c:\users\cliente\desktop\vinícius\v0.8-segundo-trabalho-de-ed2-master\binary_tree.c
+	"Binary_Tree.h"
+
+1572706597 c:\users\cliente\desktop\vinícius\v0.8-segundo-trabalho-de-ed2-master\binary_tree.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Hash.h"
+
+1572709950 c:\users\cliente\desktop\vinícius\v0.8-segundo-trabalho-de-ed2-master\hash.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1572710876 source:c:\users\cliente\desktop\vinícius\v0.8-segundo-trabalho-de-ed2-master\chained_list.c
+	"Chained_list.h"
+	"Binary_Tree.h"
+	"avltree.h"
+	"rbt.h"
+
+1572707053 c:\users\cliente\desktop\vinícius\v0.8-segundo-trabalho-de-ed2-master\chained_list.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Hash.h"
+	"Binary_Tree.h"
+	"avltree.h"
+	"rbt.h"
+
+1572711506 c:\users\cliente\desktop\vinícius\v0.8-segundo-trabalho-de-ed2-master\rbt.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1572710279 source:c:\users\cliente\desktop\vinícius\v0.8-segundo-trabalho-de-ed2-master\hash.c
+	"Hash.h"
+
+1572716059 source:c:\users\cliente\desktop\vinícius\v0.8-segundo-trabalho-de-ed2-master\main.c
+	"avltree.h"
+	"Hash.h"
+	"Chained_list.h"
+	"Binary_Tree.h"
+	"rbt.h"
+	"time.h"
+
+1572712976 source:c:\users\cliente\desktop\vinícius\v0.8-segundo-trabalho-de-ed2-master\rbt.c
+	"rbt.h"
+
