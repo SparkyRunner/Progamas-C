@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1576381940 source:c:\users\encoder\desktop\scripts\grafos\grafos.c
+	<stdio.h>
+	<stdlib.h>
+	"Grafos.h"
+
+1575812077 c:\users\encoder\desktop\scripts\grafos\grafos.h
+	<stdio.h>
+	<stdlib.h>
+
+1576383651 source:c:\users\encoder\desktop\scripts\grafos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"Grafos.h"
+	<time.h>
+
+1574620587 c:\users\encoder\desktop\scripts\grafos\grafos.c
+	<stdio.h>
+	<stdlib.h>
+
